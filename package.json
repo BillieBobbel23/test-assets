@@ -1,0 +1,30 @@
+{
+  "name": "web-test-assets",
+  "version": "1.0.0",
+  "description": "A tiny package to test builders, linters and other automations",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billiebobbel23/test-assets.git"
+  },
+  "keywords": [
+    "test",
+    "assets",
+    "front-end",
+    "scss",
+    "html",
+    "js"
+  ],
+  "author": "BillieBobbel23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billiebobbel23/test-assets/issues"
+  },
+  "homepage": "https://github.com/billiebobbel23/test-assets#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

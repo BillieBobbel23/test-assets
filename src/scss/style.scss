@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Lato';
+  font-size: 1rem;
+  color: #2A2A2A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../img/acidcat2.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+main {
+  background-color: #FFF;
+  padding: 2rem;
+  width: 65vw;
+  box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, .33);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 900;
+}
+
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+//  font-size: 85%;
+  background-color: rgba(27,31,35,0.05);
+  border-radius: 3px;
+}
